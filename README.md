@@ -1,6 +1,9 @@
 # CDC_Self_Project
 I have created a Movie Recommendation Project Project on Jupyter NoteBook
-Movie Recommendation System                                                                                                                                                                                                                                                                        Jun'23
+
+
+Movie Recommendation System                                                                                                                                                                                                                                                                        
+Jun'23
 
 • Built a movie recommendation system by implementing a content-based filtering algorithm and the cosine similarity
 
